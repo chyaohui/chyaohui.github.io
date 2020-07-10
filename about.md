@@ -7,3 +7,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
 
 Find me on [GitHub](https://github.com/chyaohui) or [Twitter](https://twitter.com/chyaohui).
+
+公众号  
+	
+		![screen](/images/contact-wechat.png)  
