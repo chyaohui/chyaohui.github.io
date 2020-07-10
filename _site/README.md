@@ -1,6 +1,6 @@
-# Scribble
+# 这是我的个人Blog
 
-A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-jekyll-theme).
+博客主题用的Jekyll - Scribble. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-jekyll-theme).
 
 ![screenshot](https://cloud.githubusercontent.com/assets/1153134/23830104/6d4665e0-06b7-11e7-8805-57e73c346459.png)
 
@@ -28,5 +28,5 @@ A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-j
 
 ## The end
 
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Problem? [Use GitHub Issues](https://github.com/muan/scribble).
+Contact me [Contact me](http://twitter.com/chyaohui).<br/>
+Email [chyaohui@gmail.com](chyaohui@gmail.com).
