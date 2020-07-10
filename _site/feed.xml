@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>成吉痴汉</title>
+    <description>Such theme, very cool.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>My English-learning Tools</title>
+        <description>&lt;p&gt;身为技术开发者，英语的重要性不言而喻。大部分原汁原味的技术文章都是优先以英语展现。&lt;/p&gt;
+
+&lt;p&gt;以下是个人在英语学习中收集的一些工具，当然，学好英语，工具是次要的，最重要的是选好适合的工具，然后持之以恒的练习。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People lack the willpower, rather than strength.&lt;/p&gt;
+
+  &lt;p&gt;– Hugo&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;词汇&quot;&gt;词汇&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.visuwords.com&quot; target=&quot;_blank&quot;&gt;www.visuwords.com&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+ 视觉单词：用线条展示一个单词的近义词、反义词，视觉效果能加深关联记忆。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;pleco&lt;/strong&gt; - 中英词典 -App&lt;br /&gt;
+ 能翻译很多有趣口语和单词&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;语法&quot;&gt;语法&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.grammarly.com&quot; target=&quot;_blank&quot;&gt;www.grammarly.com&lt;/a&gt;&lt;/strong&gt; - chrome插件&lt;br /&gt;
+ 英语语法修改及提示工具，推荐使用。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;口语练习&quot;&gt;口语练习&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;微软小英&lt;/strong&gt; -微信小程序&lt;/p&gt;
+
+    &lt;p&gt;还处于哑巴英语阶段，此次基本没推荐…&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;podcast&quot;&gt;Podcast&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;潘吉Jenny告诉你&lt;/strong&gt;&lt;br /&gt;
+ 可以学习一些有趣的美国口语和美国人生活习惯，节奏轻松&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;意趣英语&lt;/strong&gt;&lt;br /&gt;
+ 同上&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;English as a Second Language Podcast&lt;/strong&gt; (也叫Eslpod，强烈推荐)&lt;br /&gt;
+ 每集30分钟左右，先慢速读一段对话，再解释对话内容，最后再常速播放一次，特别适合英语水平一般的朋友（例如我）。听了不少播客，感觉这个是比较容易坚持听下去的。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;视频&quot;&gt;视频&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Youtube&lt;/strong&gt; 油管上有很多有趣的教程，当然，bilibili也搬运了不少油管视频
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Silicon Valley Girl&lt;br /&gt;
+ 这个小姐姐口音有点俄罗斯的味道，但是不妨碍个人对这个频道的喜欢，因为她真的很漂亮。。&lt;/p&gt;
+
+        &lt;p&gt;&lt;img src=&quot;/images/20190425/01.png&quot; alt=&quot;screen&quot; /&gt;&lt;br /&gt;
+  &lt;img src=&quot;/images/20190425/02.png&quot; alt=&quot;screen&quot; /&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;还有各厂的技术博客频道，例如Google Developers、CrashCourse、SpringDeveloper等等。&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;英语app&quot;&gt;英语app&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;轻听英语&lt;br /&gt;
+ 界面友好，资源还算丰富，上下班路上打开听播客，还能添加生词并且有循环记忆提醒，五星推荐的app，反正我是买了终身会员。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;待续..&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 25 Apr 2019 08:37:31 +0000</pubDate>
+        <link>http://localhost:4000/posts/my-english-tools</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/my-english-tools</guid>
+      </item>
+    
+      <item>
+        <title>The best things and stuff in 2019</title>
+        <description>&lt;p&gt;2019年自己看过玩过的有趣的东西，排名不分先后。&lt;/p&gt;
+
+&lt;h2 id=&quot;great-posts-read&quot;&gt;Great posts read&lt;/h2&gt;
+
+&lt;h2 id=&quot;favorite-books-discoveredand-read&quot;&gt;Favorite books discovered(and read)&lt;/h2&gt;
+
+&lt;h2 id=&quot;favorite-tv-series-and-movies&quot;&gt;Favorite TV series and movies&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Love,death,robot. — 又黄又暴力的科技动画片，每集10来分钟，Netflix出品，必属精品。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;绿皮书 — 2018年奥斯卡影片，配合《为奴三十年》观看，感触更多。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;波西米亚狂想曲 — 记录皇后乐队的传记电影，还记得高中和好基友上课背we will rock you的歌词，十多年之后的今天，才知道是由皇后乐队演唱的。&lt;/li&gt;
+  &lt;li&gt;流浪猫鲍勃 — 基于真实事件改编，讲述了一只流浪猫和一个瘾君子的故事，大团圆结局，感恩。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interesting-gameappproduct-discovered&quot;&gt;Interesting game/app/product discovered&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Odyssey — 一款悠闲跑酷手游，画风类似纪念碑谷，操作简单，适合手残党。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;FastHub — 全球最大同性交友社区github的第三方android客户端,功能全面，界面友好，个人感觉是目前最好用的github客户端，碎片时间都会上去随便逛逛。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;favorite-musicians&quot;&gt;Favorite musicians&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Never enough — 电影《 马戏之王》插曲&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You make me happier than I ever thought I could be.&lt;/p&gt;
+
+  &lt;p&gt;-《老友记》&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 11 Apr 2019 11:40:31 +0000</pubDate>
+        <link>http://localhost:4000/posts/the-best-things-in-2019</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/the-best-things-in-2019</guid>
+      </item>
+    
+      <item>
+        <title>Scribble, a Jekyll theme</title>
+        <description>&lt;p&gt;Instruction as follows. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in.&lt;/p&gt;
+
+&lt;h2 id=&quot;get-started&quot;&gt;Get started&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble/fork&quot;&gt;Fork the repository&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Clone the repository: &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone https://github.com/username/scribble&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Run Jekyll: &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve -w&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to http://localhost:4000 for your site.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;make-it-yours&quot;&gt;Make it yours&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;, adn then rerun &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve -w&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Change &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; for blog intro&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For domain settings see &lt;a href=&quot;https://help.github.com/articles/setting-up-a-custom-domain-with-pages&quot;&gt;the guide from GitHub&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble&quot; class=&quot;pa3 tc ba br2 db&quot;&gt;Get it on GitHub ♥&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-end&quot;&gt;The end&lt;/h2&gt;
+
+&lt;p&gt;Like it? &lt;a href=&quot;http://twitter.com/muanchiou&quot;&gt;Tell me&lt;/a&gt;.&lt;br /&gt;
+Problem? &lt;a href=&quot;https://github.com/muan/scribble&quot;&gt;Use GitHub Issues&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 00:06:52 +0000</pubDate>
+        <link>http://localhost:4000/posts/scribble-the-jekyll-theme</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/scribble-the-jekyll-theme</guid>
+      </item>
+    
+      <item>
+        <title>Lorem Ipsum Dolor Sit Amet Consectetur Elit</title>
+        <description>&lt;p&gt;I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Abore et dolore magna aliqua. Ut enim ad minim veniam, quis.&lt;/p&gt;
+
+  &lt;p&gt;– Akei Yue&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;List with code&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; not highlighted
+ multi line
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;List with code&lt;/p&gt;
+    &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;dom&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'boom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+ &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dom&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;dialog&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;header&amp;gt;&lt;/span&gt;Headsup&lt;span class=&quot;nt&quot;&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;button&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;js-close-dialog&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Close&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/dialog&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 06 May 2013 15:27:31 +0000</pubDate>
+        <link>http://localhost:4000/posts/more-post</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/more-post</guid>
+      </item>
+    
+  </channel>
+</rss>
