@@ -8,6 +8,5 @@ Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor ris
 
 Find me on [GitHub](https://github.com/chyaohui) or [Twitter](https://twitter.com/chyaohui).
 
-公众号  
+![](/images/contact-wechat.png)
 	
-		![screen](/images/contact-wechat.png)  
