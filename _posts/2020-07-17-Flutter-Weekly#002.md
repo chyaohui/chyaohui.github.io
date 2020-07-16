@@ -93,14 +93,16 @@ class MyApp extends StatelessWidget {
 [Flokk – A Desktop App built with Flutter!](https://github.com/gskinnerTeam/flokk "Flokk – A Desktop App built with Flutter!")
 
 这周最激动人心的开源项目必须要数Flokk了。gskinner团队联合谷歌Flutter团队发布了可在MacOS,Linux,Windows上使用的桌面应用，这是一个整合了GitHub和Twitter的联系人管理软件，具体介绍可以看[官方blog](https://blog.gskinner.com/archives/2020/07/introducing-flokk-a-desktop-app-built-with-flutter.html "官方blog")
-![](https://imgkr.cn-bj.ufileos.com/5981df54-b95d-4b86-a2a3-a51a25a145fd.png)
 
+![](https://imgkr.cn-bj.ufileos.com/5981df54-b95d-4b86-a2a3-a51a25a145fd.png)
 
 
 [HatFeather/flutter_dough](https://github.com/HatFeather/flutter_dough "HatFeather/flutter_dough")
 
 这个包提供了一些可拖动的UI小部件，让你的应用不再沉闷。
+
 ![](https://imgkr.cn-bj.ufileos.com/dc0b6492-c118-4e06-b5a5-2b65ffbe9b2d.gif)
+
 ![](https://imgkr.cn-bj.ufileos.com/02221bba-56c9-49a6-95f8-14e658e22272.gif)
 
 
@@ -110,8 +112,6 @@ class MyApp extends StatelessWidget {
 一套使用物理学动画构建的Flutter小部件。
 ![](https://imgkr.cn-bj.ufileos.com/3566a889-11b8-42cf-8c0c-30ba600ec9f6.gif)
 ![](https://imgkr.cn-bj.ufileos.com/ce2664de-8543-4332-8d09-5d4086fee9cb.gif)
-
-
 
 
 ### 订阅
