@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "成吉痴汉"
+title:            "陈耀辉"
 description:      "Such theme, very cool."
 url:              "https://chyaohui.github.io/" # Site url, without a slash at the end.
-signoff:          "成吉痴汉" # Your name
+signoff:          "陈耀辉" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
